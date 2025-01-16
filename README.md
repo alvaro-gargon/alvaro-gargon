@@ -1,5 +1,5 @@
 ## Hi there 👋
-Testing changes
+Starting my journey
 <!--
 **alvaro-gargon/alvaro-gargon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
